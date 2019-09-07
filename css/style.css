@@ -90,7 +90,7 @@ main {
 	align-items: center;
 	background-color: #F5F2F2;
 	height: 500px;
-	flex-wrap: wrap;
+	//flex-wrap: wrap;
 	
 }
 
